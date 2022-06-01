@@ -1,3 +1,33 @@
+![evm](https://user-images.githubusercontent.com/90610801/171322377-719fbcc3-637e-4d33-b45f-bb3e541a6ed2.jpg)
+
+![evm-1](https://user-images.githubusercontent.com/90610801/171322396-62dee32e-48f8-4440-890b-e7be5664b984.jpg)
+
+![evm-2](https://user-images.githubusercontent.com/90610801/171322410-e0673db9-dca6-4e22-90f3-173233ce3913.jpg)
+
+![evm-3](https://user-images.githubusercontent.com/90610801/171322428-6b5bdf12-2100-4477-bbf5-6272fdd163e0.jpg)
+
+![evm-4](https://user-images.githubusercontent.com/90610801/171322447-0b575386-2bb1-4628-989d-9c35887ad19a.jpg)
+
+![evm-5](https://user-images.githubusercontent.com/90610801/171322480-ebda1456-6812-4cb5-ac49-f6c37d089554.jpg)
+
+![evm-6](https://user-images.githubusercontent.com/90610801/171322496-c8587bbe-a64b-4379-9d29-9d557a3c5cdc.jpg)
+
+![evm-7](https://user-images.githubusercontent.com/90610801/171322506-4fb4564e-a61b-4a90-9c4a-65ba231687fb.jpg)
+
+![evm-8](https://user-images.githubusercontent.com/90610801/171322537-709ff5d4-347e-4a55-996e-20f75c2fa332.jpg)
+
+![evm-9](https://user-images.githubusercontent.com/90610801/171322564-474f1f27-78be-47ef-a9da-b1fcfe0c57f6.jpg)
+
+![evm-10](https://user-images.githubusercontent.com/90610801/171322584-491e33f6-4b55-49ec-b6df-17d39a4557d3.jpg)
+
+![evm-11](https://user-images.githubusercontent.com/90610801/171322603-fbf94e6f-b6e2-4d88-be12-b1098bb2e203.jpg)
+
+
+
+
+
+
+
 Let's recap a few things we taught in earlier tracks before moving ahead.
 
 Recall that Ethereum works as a transaction-based state machine. Starting at some state s1, a transaction manipulates certain data to shift the world state to some state s2.
